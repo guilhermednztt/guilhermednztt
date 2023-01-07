@@ -36,13 +36,15 @@ Seja bem-vindo(a) ao meu perfil 🔥
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 
 <b>Framework:</b><br>
+<img src="https://img.shields.io/badge/Laravel-FF4500?style=for-the-badge&logo=laravel&logoColor=white" /> &nbsp;
+<img src="https://img.shields.io/badge/symfony-4B0082.svg?style=for-the-badge&logo=symfony&logoColor=white"> &nbsp;
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> &nbsp;
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" /> &nbsp;
-<img src="https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=purple">
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
 
 <b>SGBD:</b><br>
-<img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white" /> &nbsp;
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-363636?style=for-the-badge&logo=mysql&logoColor=white" /> &nbsp;
+<img src="https://img.shields.io/badge/MongoDB-3CB371?style=for-the-badge&logo=MongoDB&logoColor=white" /> &nbsp;
+<img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white" />
 
 <b>SO:</b><br>
 <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" /> &nbsp;
@@ -65,3 +67,5 @@ Seja bem-vindo(a) ao meu perfil 🔥
     <td><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermedonizetti&langs_count=4&hide=javascript,css,scss&theme=dark" /></td>
   </tr>
 </table>
+<br><br>
+Proprietário do perfil GitHub: <a href="https://github.com/guilhermedonizetti/">Guilherme Donizetti</a>, a qual perdi acesso.</br>
