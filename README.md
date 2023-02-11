@@ -16,6 +16,7 @@ Seja bem-vindo(a) ao meu perfil 🔥
 
 #### Formação
   <ul>
+  <li>Pós-graduando em Inteligência Artificial e Machine Learning (Anhanguera - Fev/2023 / em andamento)</li>
   <li>Graduado em Análise e Desenvolvimento de Sistemas (Fatec Cruzeiro - 2021)</li>
   <li>Técnico em Informática (Etec Cruzeiro - 2018)</li>
   <li>Alguns cursos:</li>
