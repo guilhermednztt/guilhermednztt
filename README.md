@@ -10,7 +10,7 @@ Seja bem-vindo(a) ao meu perfil 🔥
 
 #### Experiência
   <ul>
-    <li>Desenvolvedor de Software na <a href="https://objctv.one/" target="_blank">Objective</a> :computer: (06/2023 - até o momento)</li>
+    <li>Desenvolvedor de Software na <a href="https://objctv.one/" target="_blank">Objective</a> :computer: (07/2023 - até o momento)</li>
   <li>Desenvolvedor de Software no <a href="https://www.plusintelligence.com.br/" target="_blank">Plus Intelligence</a> :computer: (06/2022 - 06/2023)</li>
   <li>Programador Jr. na <a href="https://www.autoestimamaistop.com/" target="_blank">Mais Top Estética</a> :computer: (12/2021 - 05/2022)</li>
   <li>Bolsista <a href="https://www.gov.br/cnpq/pt-br" target="_blank">PIBITI/CNPq</a> no CPS :computer: (09/2020 - 09/2021) </li>
