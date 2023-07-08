@@ -1,7 +1,8 @@
 # :computer: Guilherme Donizetti
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/guilhermedonizetti-ads)](https://br.linkedin.com/in/guilhermedonizetti-ads)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn_[conecte_comigo]-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/guilhermedonizetti-ads)](https://br.linkedin.com/in/guilhermedonizetti-ads)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:guilhermetecnologias@gmail.com)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](http://guilhermedonizettiads.medium.com/)
+[![Artigo Científico Badge](https://img.shields.io/badge/Artigo_Científico-[ver_aqui]-green?style=flat-square&logo=atom&logoColor=black)](https://sol.sbc.org.br/journals/index.php/reic/article/view/2144)
 <!-- [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/guilhermedonizetti.sp) -->
 <!-- [![Me Badge](https://img.shields.io/badge/website-000000?style=flat-square&or-the-badge&logo=About.me&logoColor=white)](https://guilhermedonizetti.herokuapp.com/) -->
 
@@ -9,7 +10,8 @@ Seja bem-vindo(a) ao meu perfil 🔥
 
 #### Experiência
   <ul>
-  <li>Programador Pleno no <a href="https://www.plusintelligence.com.br/" target="_blank">Plus Intelligence</a> :computer: (06/2022 - até o momento)</li>
+    <li>Desenvolvedor de Software na <a href="https://objctv.one/" target="_blank">Objective</a> :computer: (06/2023 - até o momento)</li>
+  <li>Desenvolvedor de Software no <a href="https://www.plusintelligence.com.br/" target="_blank">Plus Intelligence</a> :computer: (06/2022 - 06/2023)</li>
   <li>Programador Jr. na <a href="https://www.autoestimamaistop.com/" target="_blank">Mais Top Estética</a> :computer: (12/2021 - 05/2022)</li>
   <li>Bolsista <a href="https://www.gov.br/cnpq/pt-br" target="_blank">PIBITI/CNPq</a> no CPS :computer: (09/2020 - 09/2021) </li>
   </ul>
@@ -29,6 +31,12 @@ Seja bem-vindo(a) ao meu perfil 🔥
     <li>CyberOps Associate :heavy_check_mark: (concluído)</li>
   </ul>
   </ul>
+
+#### Publicação
+<ul>
+  <li><b>Uso da IoT para Monitoramento de Temperatura, Umidade e Presença em Data Centers</b><br>
+  Publicado na Revista Eletrônica de Iniciação Científica em Computação da Sociedade Brasileira de Computação.</li>
+</ul>
 
 <br>
 
