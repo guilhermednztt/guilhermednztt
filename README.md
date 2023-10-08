@@ -18,7 +18,7 @@ Seja bem-vindo(a) ao meu perfil 🔥
 
 #### Formação
   <ul>
-  <li>Pós-graduando em Inteligência Artificial e Machine Learning (Anhanguera - Fev/2023 / em andamento)</li>
+  <li>Pós-graduado em Inteligência Artificial e Machine Learning (Anhanguera - 2023)</li>
   <li>Graduado em Análise e Desenvolvimento de Sistemas (Fatec Cruzeiro - 2021)</li>
   <li>Técnico em Informática (Etec Cruzeiro - 2018)</li>
   <li>Alguns cursos:</li>
@@ -34,7 +34,9 @@ Seja bem-vindo(a) ao meu perfil 🔥
 
 #### Publicação
 <ul>
-  <li><b>Uso da IoT para Monitoramento de Temperatura, Umidade e Presença em Data Centers</b><br>
+  <li><b><a href="https://sol.sbc.org.br/journals/index.php/reic/article/view/2144">Uso da IoT para Monitoramento de Temperatura, Umidade e Presença em Data Centers</a></b><br>
+
+[![Artigo Científico Badge](https://img.shields.io/badge/Artigo_Científico-[CNPq]-green?style=flat-square&logo=atom&logoColor=black)](https://sol.sbc.org.br/journals/index.php/reic/article/view/2144)
   Publicado na Revista Eletrônica de Iniciação Científica em Computação da Sociedade Brasileira de Computação.</li>
 </ul>
 
@@ -72,9 +74,8 @@ Seja bem-vindo(a) ao meu perfil 🔥
 #### Estatística
 <table>
   <tr>
-    <td><img align="left" src="https://github-readme-stats.vercel.app/api?username=guilhermedonizetti&show_icons=true&theme=merko"></td>
-    <td><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermedonizetti&langs_count=4&hide=javascript,css,scss&theme=dark" /></td>
+    <td><img align="left" src="https://github-readme-stats.vercel.app/api?username=guilhermednztt&show_icons=true&theme=merko"></td>
+    <td><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermednztt&langs_count=4&hide=javascript,css,scss&theme=dark" /></td>
   </tr>
 </table>
 <br><br>
-Proprietário do perfil GitHub: <a href="https://github.com/guilhermedonizetti/">Guilherme Donizetti</a>, a qual perdi acesso.</br>
