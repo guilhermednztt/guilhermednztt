@@ -10,10 +10,11 @@ Seja bem-vindo(a) ao meu perfil 🔥
 
 #### Experiência
   <ul>
-    <li>Desenvolvedor de Software na <a href="https://objctv.one/" target="_blank">Objective</a> :computer: (07/2023 - até o momento)</li>
-  <li>Desenvolvedor de Software no <a href="https://www.plusintelligence.com.br/" target="_blank">Plus Intelligence</a> :computer: (06/2022 - 06/2023)</li>
-  <li>Programador Jr. na <a href="https://www.autoestimamaistop.com/" target="_blank">Mais Top Estética</a> :computer: (12/2021 - 05/2022)</li>
-  <li>Bolsista <a href="https://www.gov.br/cnpq/pt-br" target="_blank">PIBITI/CNPq</a> no CPS :computer: (09/2020 - 09/2021) </li>
+    <li>Scrum master na <a href="https://prod.ag/" target="_blank">Prod</a> :computer: (05/2024 - até o momento)</li>
+    <li>Desenvolvedor de Software na <a href="https://objctv.one/" target="_blank">Objective</a> :computer: (07/2023 - 05/2024)</li>
+    <li>Desenvolvedor de Software no <a href="https://www.plusintelligence.com.br/" target="_blank">Plus Intelligence</a> :computer: (06/2022 - 06/2023)</li>
+    <li>Programador Jr. na <a href="https://www.autoestimamaistop.com/" target="_blank">Mais Top Estética</a> :computer: (12/2021 - 05/2022)</li>
+    <li>Bolsista <a href="https://www.gov.br/cnpq/pt-br" target="_blank">PIBITI/CNPq</a> no CPS :computer: (09/2020 - 09/2021) </li>
   </ul>
 
 #### Formação
@@ -21,15 +22,6 @@ Seja bem-vindo(a) ao meu perfil 🔥
   <li>Pós-graduado em Inteligência Artificial e Machine Learning (Anhanguera - 2023)</li>
   <li>Graduado em Análise e Desenvolvimento de Sistemas (Fatec Cruzeiro - 2021)</li>
   <li>Técnico em Informática (Etec Cruzeiro - 2018)</li>
-  <li>Alguns cursos:</li>
-  <ul>
-    <li>Desenvolvimento Avançado de API com Flask :heavy_check_mark: (concluído)</li>
-    <li>Fundamentos de Machine Learning - AWS :heavy_check_mark: (concluído)</li>
-    <li>Certificação AI-900 :heavy_check_mark: (concluído)</li>
-    <li>Computação em Nuvem usando Azure :heavy_check_mark: (concluído)</li>
-    <li>Dispositivos IoT e AWS :heavy_check_mark: (concluído)</li>
-    <li>CyberOps Associate :heavy_check_mark: (concluído)</li>
-  </ul>
   </ul>
 
 #### Publicação
