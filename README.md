@@ -24,7 +24,7 @@ Seja bem-vindo(a) ao meu perfil 🔥
   <li>Técnico em Informática (Etec Cruzeiro - 2018)</li>
   </ul>
 
-#### Publicação
+#### Publicação Científica
 <ul>
   <li><b><a href="https://sol.sbc.org.br/journals/index.php/reic/article/view/2144">Uso da IoT para Monitoramento de Temperatura, Umidade e Presença em Data Centers</a></b><br>
 
