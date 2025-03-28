@@ -10,10 +10,11 @@ Seja bem-vindo(a) ao meu perfil 🔥
 
 #### Experiência
   <ul>
-    <li>Scrum master na <a href="https://prod.ag/" target="_blank">Prod</a> :computer: (05/2024 - até o momento)</li>
-    <li>Desenvolvedor de Software na <a href="https://objctv.one/" target="_blank">Objective</a> :computer: (07/2023 - 05/2024)</li>
+    <li>Arquiteto de Soluções Digitais na <a href="https://going2.com.br" target="_blank">Going2 Tech</a> :computer: (02/2025 - até o momento)</li>
+    <li>Scrum master na <a href="https://prod.ag/" target="_blank">Prod</a> :computer: (05/2024 - 02/2025)</li>
+    <li>Desenvolvedor de Software na <a href="https://objctv.one/" target="_blank">Objective</a> :computer: (06/2023 - 05/2024)</li>
     <li>Desenvolvedor de Software no <a href="https://www.plusintelligence.com.br/" target="_blank">Plus Intelligence</a> :computer: (06/2022 - 06/2023)</li>
-    <li>Programador Jr. na <a href="https://www.autoestimamaistop.com/" target="_blank">Mais Top Estética</a> :computer: (12/2021 - 05/2022)</li>
+    <li>Programador Jr. na <a href="https://www.autoestimamaistop.com/" target="_blank">Mais Top Estética</a> :computer: (12/2021 - 06/2022)</li>
     <li>Bolsista <a href="https://www.gov.br/cnpq/pt-br" target="_blank">PIBITI/CNPq</a> no CPS :computer: (09/2020 - 09/2021) </li>
   </ul>
 
@@ -58,10 +59,12 @@ Seja bem-vindo(a) ao meu perfil 🔥
 <img src="https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9" /> &nbsp;
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/Jupyter-FFFFFF?style=for-the-badge&logo=jupyter&logoColor=orange"/> &nbsp;
+<img src="https://img.shields.io/badge/Colab-FF8C00?style=for-the-badge&logo=google%20colab&logoColor=black"/> &nbsp; <br>
+<img src="https://img.shields.io/badge/OpenCV-FF0000?style=for-the-badge&logo=opencv&logoColor=white" /> &nbsp;
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> &nbsp;
 <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /> &nbsp;
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> &nbsp;
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Cloud-1572B6?style=for-the-badge&logo=google%20cloud&logoColor=white" />
 
 #### Estatística
 <table>
